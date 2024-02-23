@@ -2,7 +2,7 @@ Required Data -
 <details>
   <summary>books.json</summary>
   <br /> 
-  ```
+  <code>
   [
   {
     "_id": 1,
@@ -23,11 +23,8 @@ Required Data -
     "genre": "Classic"
   }
 ]
-```  
+  </code>
 </details>
-```
-Test
-```
 <details>
   <summary>authors.json</summary>
   <br />
