@@ -28,7 +28,7 @@ Required Data -
 <details>
   <summary>authors.json</summary>
   <br />
-  ```
+  <code>
   [
   {
     "_id": 100,
@@ -46,12 +46,12 @@ Required Data -
     "birth_year": 1926
   }
 ]
-```
+  </code>
 </details>
 <details>
   <summary>users.json</summary>
   <br />
-  ```
+  <code>
   [
     {
       "index": NumberInt(0),
@@ -24610,5 +24610,5 @@ Required Data -
       ]
     }
   ]
-  ```
+  </code>
 </details>
