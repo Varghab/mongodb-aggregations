@@ -2,7 +2,7 @@ Required Data -
 <details>
   <summary>books.json</summary>
   <br /> 
-  [
+  ```[
   {
     "_id": 1,
     "title": "The Great Gatsby",
@@ -21,12 +21,12 @@ Required Data -
     "author_id": 102,
     "genre": "Classic"
   }
-]  
+]```  
 </details>
 <details>
   <summary>authors.json</summary>
   <br />
-  [
+  ```[
   {
     "_id": 100,
     "name": "F. Scott Fitzgerald",
@@ -42,12 +42,12 @@ Required Data -
     "name": "Harper Lee",
     "birth_year": 1926
   }
-]
+]```
 </details>
 <details>
   <summary>users.json</summary>
   <br />
-  [
+  ```[
     {
       "index": NumberInt(0),
       "name": "Aurelia Gonzales",
@@ -24604,5 +24604,5 @@ Required Data -
         "sunt"
       ]
     }
-  ]
+  ]```
 </details>
